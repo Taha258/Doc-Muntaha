@@ -1,4 +1,4 @@
-## 📁 Project Folder Structure
+## 📁 BackEnd & FrontEnd Folder Structure
 
 ```bash
 
@@ -33,6 +33,78 @@
 │
 │── frontend/
 │   ├── (Next.js / React app here)
+│   └── README.md
+│
+│── README.md
+```
+## 📁 BackEnd Folder Structure
+```bash
+
+│── src/
+│   ├── controllers/
+│   │   └── auth.controller.js
+│   │
+│   ├── db/
+│   │   └── connection.js
+│   │
+│   ├── middlewares/
+│   │   └── auth.middleware.js
+│   │
+│   ├── models/
+│   │   └── user.model.js
+│   │
+│   ├── routes/
+│   │   └── auth.routes.js
+│   │
+│   ├── utils/
+│   │   └── (empty)
+│   │
+│   ├── validations/
+│   │   └── auth.validation.js
+│   │
+│   └── server.js
+│
+│── .env
+│── .env.example
+│── .gitignore
+│── README.md
+```
+## 📁 BackEnd Folder Structure with Drizzle & Docker Compose
+
+```bash
+
+│── backend/
+│   │── src/
+│   │   ├── controllers/
+│   │   │   └── auth.controller.js
+│   │   │
+│   │   ├── db/
+│   │   │   └── connection.js
+│   │   │
+│   │   ├── middlewares/
+│   │   │   └── auth.middleware.js
+│   │   │
+│   │   ├── models/
+│   │   │   └── user.model.js
+│   │   │
+│   │   ├── routes/
+│   │   │   └── auth.routes.js
+│   │   │
+│   │   ├── utils/
+│   │   │   └── (empty)
+│   │   │
+│   │   ├── validations/
+│   │   │   └── auth.validation.js
+│   │   │
+│   │   └── server.js
+│   │
+│   │── docker-compose.yaml
+│   │── drizzle.config.js
+│   │── .env
+│   │── .env.example
+│   │── .gitignore
+│
+│── frontend/
 │   └── README.md
 │
 │── README.md
