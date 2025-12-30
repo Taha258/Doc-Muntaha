@@ -112,4 +112,15 @@ fs.writeFileSync(OUTPUT_FILE, output.join("\n"));
 console.log(`✅ Code safely exported to ${OUTPUT_FILE}`);
 
 ```
+▶️ Step 3: Script Run Karo
+```
+node all_file_code.js
+```
+#📄 Output
+## project_code.txt file generate ho jayegi
+```
+//================== routes/index.js
+(code here)
+
+```
 
