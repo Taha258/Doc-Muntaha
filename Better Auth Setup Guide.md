@@ -257,7 +257,7 @@ cd ../frontend
 ```
 # Next.js Project initilize karo
 ```
-npx create-next-app@latest
+npx create-next-app@latest .
 ```
 ---
 
