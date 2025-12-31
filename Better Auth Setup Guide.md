@@ -255,7 +255,10 @@ Backend ready hai! ✅
 ```bash
 cd ../frontend
 ```
-
+# Next.js Project initilize karo
+```
+npx create-next-app@latest
+```
 ---
 
 ### Step 2: Dependencies Install Karo
