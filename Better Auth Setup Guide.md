@@ -168,17 +168,18 @@ const { auth } = require("./auth");
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+// JSON body parser (IMPORTANT - ye add karo)
+app.use(express.json());
+
 // CORS Middleware - Frontend se requests allow karta hai
 app.use(cors({
   origin: "http://localhost:3000", // Frontend URL
   credentials: true, // Cookies allow karta hai
 }));
 
-// Better Auth Handler - Sab auth routes handle karega
-// Example: /api/auth/signin, /api/auth/signup, /api/auth/signout
-app.all("/api/auth/*", async (req, res) => {
-  return auth.handler(req, res);
-});
+// Better Auth Handler - Sab auth routes handle karega ✅
+// Example: /api/auth/sign-in, /api/auth/sign-up, /api/auth/sign-out
+app.use("/api/auth", auth.handler);
 
 // Health check route
 app.get("/", (req, res) => {
