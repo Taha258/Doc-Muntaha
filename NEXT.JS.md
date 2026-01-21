@@ -1,8 +1,66 @@
-# UseEffect
+# 1 Component
+
+- what is Component
+- component kay name first letter Capital hona chahiye
+- component ek function hota hai jo jsx return karta hai
+- component reusable hota hai
+- component me javascript/typescript ka under html and css likh sakte hai
+- component hamasha render huta ha import nahi
+- Ek file pa ek sa ziyada component ho sakta hai
+
+<img width="1354" height="858" alt="image" src="https://github.com/user-attachments/assets/42111403-325d-4153-a963-2156381a6d64" />
+
+# 2 Props
+
+- Props Parameter or Argument hi huta ha
+- () pa zarori nahi props likho kuch hi likha sakhta hu
+- Control + p sa file switch kar sakhta hu
+- Props ek Object ha 
+
+<img width="767" height="424" alt="image" src="https://github.com/user-attachments/assets/eecbb551-6373-42b8-a663-154190eb0631" />
+<img width="824" height="469" alt="image" src="https://github.com/user-attachments/assets/863bc3d1-c745-4403-8869-f91bd512ce98" />
 
 
-Short description (optional)
+# 3 Link
 
-<img width="1406" height="782" alt="dynammic 2" src="https://github.com/user-attachments/assets/3c12ce1a-237a-4ded-bbe3-fd221a9999ef" />
+- <a> Anchor is lia use nahi karta q ka page reload hu jata ha.
+
+  <img width="1065" height="564" alt="image" src="https://github.com/user-attachments/assets/ed02f826-dee2-47b2-a211-e09e34dc95b3" />
+
+# 4 Layout
+- layout ek samjho react componet hi ha us ka us pa bus upper global.css & Font/Google &
+- const inter = Inter({subsets:["latin"]})
+- metadata for SEO
+- Children ka under jitna bhi page.tsx huta ha woh yaha sa show huta ha Google pa
+- Layout Har page pa show huti ha Like Header & Footer
+- Ek sa ziyada Layout.tsx file banata hu group ka (group) under make sure ka khali component return hu HTML or Body dubara return na hu HTML or Body sir 1 time huta ha.
+
+<img width="594" height="652" alt="image" src="https://github.com/user-attachments/assets/f5c5d322-3385-4a96-99dd-0dcf89938b81" />
+
+# 5 Dynamic Routing [Dynamic]
+- Dynamic jo folder banata ha us page.tsx main ek specil Props huta h, Jis ka under.
+- params ka under jo product ha woh [product] woh folder ka name or jo Milk ha woh URL pa jo aaya ga,
+- Fetch Metho
+- use Await for fetch data
+- JsonPlaceholder Fake API
+- json() pa conver katna Json pa data aa raha hu ga API sa us ko yeh object pa convert karta h,
+  
+ ```
+  props:{params:{product:"milk"},SearchParams:{}}
+  ```
+ ```
+  (props:{params:{product:string}})
+  ```
+ ```
+  map(()=>{}) $ map((variable,index)=>{}) 
+  ```
+  
+<img width="1002" height="469" alt="image" src="https://github.com/user-attachments/assets/f6fd0e42-7ea2-43d2-a56a-aa507a2f7c0d" />
+<img width="985" height="719" alt="image" src="https://github.com/user-attachments/assets/3fff9a54-18b8-41a4-9768-3cc2e52bc069" />
+<img width="1168" height="629" alt="image" src="https://github.com/user-attachments/assets/02f87d15-006e-4462-8b68-ebe8d8f2e425" />
+<img width="1312" height="431" alt="image" src="https://github.com/user-attachments/assets/54a7e250-be83-4ec3-b295-fd5ea746ea58" />
+
+
+
 
 
