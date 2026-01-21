@@ -109,3 +109,96 @@ import bird from "../image/bird.jpg"
 ```
 
 # 12 Usestate (Hook)
+- varible ko hum update nahi kar sakhta ha function sa is lia UseState use huta.
+- OnClick Ek Event ha
+- console is ka browser pa mila ga
+
+<img width="871" height="641" alt="image" src="https://github.com/user-attachments/assets/ceee58ab-d477-46d7-ae68-f4d356a39866" />
+ 
+<img width="885" height="668" alt="image" src="https://github.com/user-attachments/assets/781821c0-68d6-48aa-af24-76229c9ef506" />
+
+# 13 UseEffect (Hook)
+- UseEffect ka use ziyada tar Data fetch kal ia use huta h 
+- us File ka code ya Component kahalo jis bhi run hu ga to UseEffect ka under ka code Run hu jaya ga
+- [] dependency array nahi kesi ka upper depend hu ga
+- Ek file pa ek sa  ziyada useEffect hu sakhta h,
+-  jab bhi count ki value update hu to fire hu jao yani ka Run hu jao  
+
+```
+useEffect(()=>{}, [])
+```
+<img width="499" height="552" alt="image" src="https://github.com/user-attachments/assets/2c6a78e0-5c49-44b9-9baf-ce284a168725" />
+<img width="750" height="654" alt="image" src="https://github.com/user-attachments/assets/434c1425-737f-4059-9028-09843296edfe" />
+
+<img width="787" height="694" alt="image" src="https://github.com/user-attachments/assets/a370d8e6-d000-4c26-9caf-c52f60678aad" />
+
+# 13 OnChange (Event)
+
+- jab hi kuch likho to fire hu jaya yani run hu jaya
+- OnChange ka parameter pa hama ek parameter milta ha ( e ) name sa e ek object ha
+- e ek object ha us object ka under target huta ha or target sa hum value la sakhta h
+
+```
+onChange={(e)=> console.log(e.target.value)}
+```
+```
+onChange(()=>{})
+```
+<img width="1012" height="372" alt="image" src="https://github.com/user-attachments/assets/a32da76b-d1ad-4b96-a24f-f5e8ba7371c3" />
+<img width="1229" height="518" alt="image" src="https://github.com/user-attachments/assets/893dbe27-0ac1-423f-a82e-22b4fd108719" />
+<img width="978" height="596" alt="image" src="https://github.com/user-attachments/assets/802186bf-aa8b-4064-be49-13ea9767dfec" />
+
+```
+"use client";
+
+import { useState } from "react";
+
+export default function Home() {
+  const [inputVal, setInputVal] = useState("");
+  const [radioVal, setRadioVal] = useState("");
+
+  return (
+    <main className="flex flex-col items-center justify-center gap-6 p-10">
+      <h1 className="text-[36px]">On Change Handle</h1>
+
+      {/* Text Input */}
+      <input
+        type="text"
+        value={inputVal}
+        placeholder="write some thing here"
+        className="border text-[30px] px-3"
+        onChange={(e) => setInputVal(e.target.value)}
+      />
+
+      <p>{inputVal}</p>
+
+      {/* Radio Buttons */}
+      <label>
+        <input
+          type="radio"
+          value="haan"
+          name="abc"
+          onChange={(e) => setRadioVal(e.target.value)}
+        />{" "}
+        Yes
+      </label>
+
+      <label>
+        <input
+          type="radio"
+          value="nahi"
+          name="abc"
+          onChange={(e) => setRadioVal(e.target.value)}
+        />{" "}
+        No
+      </label>
+
+      <p>{radioVal}</p>
+    </main>
+  );
+}
+
+```
+
+
+
