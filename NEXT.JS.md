@@ -60,7 +60,52 @@
 <img width="1168" height="629" alt="image" src="https://github.com/user-attachments/assets/02f87d15-006e-4462-8b68-ebe8d8f2e425" />
 <img width="1312" height="431" alt="image" src="https://github.com/user-attachments/assets/54a7e250-be83-4ec3-b295-fd5ea746ea58" />
 
+# 6 Static Page 
+- by default page static huta h,
+- jab Hunm npm Build karta ha to yeh page banta h
+```
+Static page (Build Time)fetch("API",{})  & fetch("API",{next:{revalidate:3000} Blog webiste
+```
+<img width="995" height="654" alt="image" src="https://github.com/user-attachments/assets/d2019e67-b79a-4093-bdb3-a770e640fe51" />
 
+# 7 Dynamic Page
+- Ecommerce Website(us hi time server pa data fetch hu ga or page bana ga)
+```
+Dynamic Page (Build Time)fetch("API",{})  & fetch("API",{cache:"no-store"}
+```
+<img width="984" height="660" alt="image" src="https://github.com/user-attachments/assets/61001929-4a65-4fa5-8f0e-35527a0c5339" />
 
+# 8 Loading Page
+-jis level pa ap ko loadign need
+- jisa data fetch ka doran laga do
+- File ka name loading.tsx hi huna chahiya
+  
 
+# 9 Erro Page
+- error file hamasha "use client" hu gi,
 
+  <img width="1030" height="673" alt="image" src="https://github.com/user-attachments/assets/a37f1e41-f9e0-45a4-81bf-293a81b25ea0" />
+
+# 10 Group (group)
+-is ka talooq sir structure sa ha,
+- layout.tsx jab dosri banao to HTML or Body remove kar dena necha image ha us ki dosri wali,
+ 
+<img width="392" height="323" alt="image" src="https://github.com/user-attachments/assets/c4c51d6a-75e9-4240-940b-cfa963392233" />
+
+<img width="1035" height="657" alt="image" src="https://github.com/user-attachments/assets/8da24dbd-8bfe-46a8-8186-f3bf6ce2ecaf" />
+
+# 11 Image
+- loading pehla sa image load kar lata h,
+- width or height pixel ko perfect karta h
+```
+<Image Src={bird} alt="bird" width={40} height={40} loading="lazy"/>
+```
+```
+<Image Src={require('../app/')} alt="bird" width={40} height={40} loading="lazy"/>
+```
+```
+import bird from "../image/bird.jpg"
+
+```
+
+# 12 Usestate (Hook)
