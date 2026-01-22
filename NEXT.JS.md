@@ -199,6 +199,30 @@ export default function Home() {
 }
 
 ```
+# Context Api 
+
+- you have Data
+- Component A -> Component B (Child) -> Component C (Child)
+- Page 1 -> Page 2 -> Page3
+- yeh hamasha use client hu ga
+- provider hum layout pa direct nahi banata q ka us ki waja sa puri file ko "use client " karna padha ga
+- Props Driven
+- props ka zarya sa bhi provide kar sakhta h but bad practice
+- For Example jab bhi component A pa kuch changing hu gi to automatic Component bhi apna ap ko Rerender kara ga yani khud ko bhi re render kara ga
+  
+## Yeh Image Direact Layout.tsx pa provider ki ha jo ka Rong ha 
+<img width="1126" height="808" alt="image" src="https://github.com/user-attachments/assets/72359b6b-348b-4c98-bb0e-c92d288f2bdb" />
+<img width="915" height="387" alt="image" src="https://github.com/user-attachments/assets/d2fabbc4-ab0c-4ef1-9b37-20e8f74a2e5d" />
+
+
+<img width="715" height="531" alt="image" src="https://github.com/user-attachments/assets/5d645744-ec50-4d68-8cc9-65908ee20f7a" />
+
+## Ek Alag file banao like CountProvider.tsx 
+
+<img width="1300" height="656" alt="image" src="https://github.com/user-attachments/assets/2b27e312-bd81-4a24-b096-90551be2499d" />
+
+## Phir Layout.tsx pa Provide karo 
+<img width="907" height="650" alt="image" src="https://github.com/user-attachments/assets/d4829f38-fab1-4c79-a161-c6d8b034d577" />
 
 
 
