@@ -208,8 +208,11 @@ export default function Home() {
 ## Child A Components 
 <img width="595" height="432" alt="image" src="https://github.com/user-attachments/assets/df5cf09d-04fb-4761-8619-36278af90658" />
 
+## Child B Components 
+<img width="928" height="509" alt="image" src="https://github.com/user-attachments/assets/1f2acf3a-27a9-44c0-9afc-a6f7cf2a8c82" />
 
-
+## Child C Components 
+<img width="917" height="398" alt="image" src="https://github.com/user-attachments/assets/313f318a-6751-46c8-940b-77c14af1177b" />
 
 
 
