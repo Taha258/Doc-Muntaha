@@ -214,8 +214,27 @@ export default function Home() {
 ## Child C Components 
 <img width="917" height="398" alt="image" src="https://github.com/user-attachments/assets/313f318a-6751-46c8-940b-77c14af1177b" />
 
+# ladki video
+- (1)Create , (2)Provider , (3)Consumer
+- Consumer sa value sirf hum bahar function sa hi nikalta h
+- is context api also Problematic ?
+## Note 
+koi bhi value ki bhi component pa provide karni hu to ap sab Provider ka zarya sa value provide kara ga ,sab sa pehla hama context create karna huta ha 
+or jis file pa context ki value chahiya to Consumer ka zarya sa nikalta h hum.
+
+<img width="750" height="659" alt="image" src="https://github.com/user-attachments/assets/c9adafae-7678-492f-aed2-a9c50a2e293e" />
+jo yeh image ha us ka under <ChildA /> component ha agahr tumha <ChildC /> karwana ha to woh likha do aghar sab pa karwana ha to yaha sab likha do
+jo It make ka tha woh layout.tsx pa rap kar da raha tha
+<img width="645" height="597" alt="image" src="https://github.com/user-attachments/assets/98751975-a47e-4ede-80da-666c6ee10bce" />
+
+## context api also Problematic ?
+
+<img width="646" height="603" alt="image" src="https://github.com/user-attachments/assets/6d21d991-c8f2-4ae1-a530-66181e26f7ef" />
+<img width="1050" height="699" alt="image" src="https://github.com/user-attachments/assets/9c35df20-5942-47f3-b7af-c29493f5a7c2" />
 
 
+
+  
 
 # Context Api 
 
