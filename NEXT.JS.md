@@ -199,6 +199,21 @@ export default function Home() {
 }
 
 ```
+# Props Drilling
+- you can say that props are similar to Function jaisa ap funtion pa data send karta hu Argument sa similar same.
+<img width="378" height="316" alt="image" src="https://github.com/user-attachments/assets/853e5aae-614d-4393-8b08-4ac5d7468dfc" />
+##  Parents Components
+<img width="611" height="423" alt="image" src="https://github.com/user-attachments/assets/c303a8d1-3898-47c6-ae4a-0a029c9d38ad" />
+
+## Child A Components 
+<img width="595" height="432" alt="image" src="https://github.com/user-attachments/assets/df5cf09d-04fb-4761-8619-36278af90658" />
+
+
+
+
+
+
+
 # Context Api 
 
 - you have Data
