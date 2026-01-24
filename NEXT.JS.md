@@ -232,13 +232,19 @@ jo It make ka tha woh layout.tsx pa rap kar da raha tha
 <img width="646" height="603" alt="image" src="https://github.com/user-attachments/assets/6d21d991-c8f2-4ae1-a530-66181e26f7ef" />
 <img width="1050" height="699" alt="image" src="https://github.com/user-attachments/assets/9c35df20-5942-47f3-b7af-c29493f5a7c2" />
 
+# useContext
+<img width="615" height="677" alt="image" src="https://github.com/user-attachments/assets/60ad2712-1bae-4634-bd80-c40b43677976" />
+<img width="595" height="530" alt="image" src="https://github.com/user-attachments/assets/4484cc08-6ae1-4019-bf82-10e0325d91f0" />
 
+    
+<img width="770" height="439" alt="image" src="https://github.com/user-attachments/assets/8a6132df-b569-485b-830a-9dc55744faae" />
 
   
 
 # Context Api 
 
 - you have Data
+- Context API State Manage karna ka lia huta h.
 - Component A -> Component B (Child) -> Component C (Child)
 - Page 1 -> Page 2 -> Page3
 - yeh hamasha use client hu ga
