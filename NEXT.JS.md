@@ -313,5 +313,12 @@ jo It make ka tha woh layout.tsx pa rap kar da raha tha
 
  <img width="891" height="234" alt="image" src="https://github.com/user-attachments/assets/2f4e3b41-535f-4ff0-9838-d0ef3eb7c808" />
 
+# UseParam (Path Parameter) Like localhost:3000/100
+- 100 path parameter ha
+- UseSearchParams yeh alag chiz ha jaisa Query parameter huta ha na ( ? ) ji ko hum server side ka lia serachparams bolta ha jab hum
+client side query parameter karta ha to UseSearchParams khata h, 
+- Aghar server side yeh kam karna ha dynamic path ki value lana ka to ap Props sa karo aghar client side karna ha to UseParams sa,
+
+  <img width="979" height="702" alt="image" src="https://github.com/user-attachments/assets/3c289e62-44b0-4092-8ce9-89c9b253bd64" />
 
 
