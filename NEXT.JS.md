@@ -267,5 +267,17 @@ jo It make ka tha woh layout.tsx pa rap kar da raha tha
 ## Phir Layout.tsx pa Provide karo 
 <img width="907" height="650" alt="image" src="https://github.com/user-attachments/assets/d4829f38-fab1-4c79-a161-c6d8b034d577" />
 
+# Incremental static regeneration (ISR)
+- Static Page acha to ha foran load hu jata ha maghar us ka under bilkul update data nahi .
+- Dynamic page acha to huta ha update data bhi ha main compaire to load time static sa kam ha.
+- is lia hum ISR use karta ha jo dono kam ek sath karta h
+  <img width="940" height="681" alt="image" src="https://github.com/user-attachments/assets/9daa7242-ec37-40f5-b174-9c899203edcd" />
+
+# All about generate static params
+- [dynamic] jo dynamic ka under ka page huta ha na woh dynamic banta ha bydefault mujhe aghar static banana hu to yeh tareeqa h.
+<img width="958" height="649" alt="image" src="https://github.com/user-attachments/assets/1bd5e865-b820-4ab9-9c00-fd19f2f74f71" />
+<img width="1242" height="624" alt="image" src="https://github.com/user-attachments/assets/60009ad5-f36c-4c98-90c3-286b221afcee" />
+
+
 
 
