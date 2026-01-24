@@ -20,14 +20,21 @@
 <img width="767" height="424" alt="image" src="https://github.com/user-attachments/assets/eecbb551-6373-42b8-a663-154190eb0631" />
 <img width="824" height="469" alt="image" src="https://github.com/user-attachments/assets/863bc3d1-c745-4403-8869-f91bd512ce98" />
 
+# 3 Props 15
+- props 15 pa ap ko promises milta ha jis ki waja sa hama await use karna hu ga the async function
+- 
+<img width="901" height="599" alt="image" src="https://github.com/user-attachments/assets/227b0656-1ef0-4dda-9a09-ef5dcccee5fe" />
+<img width="1129" height="585" alt="image" src="https://github.com/user-attachments/assets/3e960a8b-f535-476a-aded-6e8760384e76" />
 
-# 3 Link
+
+
+# 4 Link
 
 - <a> Anchor is lia use nahi karta q ka page reload hu jata ha.
 
   <img width="1065" height="564" alt="image" src="https://github.com/user-attachments/assets/ed02f826-dee2-47b2-a211-e09e34dc95b3" />
 
-# 4 Layout
+# 5 Layout
 - layout ek samjho react componet hi ha us ka us pa bus upper global.css & Font/Google &
 - const inter = Inter({subsets:["latin"]})
 - metadata for SEO
@@ -37,7 +44,7 @@
 
 <img width="594" height="652" alt="image" src="https://github.com/user-attachments/assets/f5c5d322-3385-4a96-99dd-0dcf89938b81" />
 
-# 5 Dynamic Routing [Dynamic]
+# 6 Dynamic Routing [Dynamic]
 - Dynamic jo folder banata ha us page.tsx main ek specil Props huta h, Jis ka under.
 - params ka under jo product ha woh [product] woh folder ka name or jo Milk ha woh URL pa jo aaya ga,
 - Fetch Metho
@@ -60,7 +67,7 @@
 <img width="1168" height="629" alt="image" src="https://github.com/user-attachments/assets/02f87d15-006e-4462-8b68-ebe8d8f2e425" />
 <img width="1312" height="431" alt="image" src="https://github.com/user-attachments/assets/54a7e250-be83-4ec3-b295-fd5ea746ea58" />
 
-# 6 Static Page 
+# 7 Static Page 
 - by default page static huta h,
 - jab Hunm npm Build karta ha to yeh page banta h
 ```
@@ -68,25 +75,25 @@ Static page (Build Time)fetch("API",{})  & fetch("API",{next:{revalidate:3000} B
 ```
 <img width="995" height="654" alt="image" src="https://github.com/user-attachments/assets/d2019e67-b79a-4093-bdb3-a770e640fe51" />
 
-# 7 Dynamic Page
+# 8 Dynamic Page
 - Ecommerce Website(us hi time server pa data fetch hu ga or page bana ga)
 ```
 Dynamic Page (Build Time)fetch("API",{})  & fetch("API",{cache:"no-store"}
 ```
 <img width="984" height="660" alt="image" src="https://github.com/user-attachments/assets/61001929-4a65-4fa5-8f0e-35527a0c5339" />
 
-# 8 Loading Page
+# 9 Loading Page
 -jis level pa ap ko loadign need
 - jisa data fetch ka doran laga do
 - File ka name loading.tsx hi huna chahiya
   
 
-# 9 Erro Page
+# 10 Erro Page
 - error file hamasha "use client" hu gi,
 
   <img width="1030" height="673" alt="image" src="https://github.com/user-attachments/assets/a37f1e41-f9e0-45a4-81bf-293a81b25ea0" />
 
-# 10 Group (group)
+# 11 Group (group)
 -is ka talooq sir structure sa ha,
 - layout.tsx jab dosri banao to HTML or Body remove kar dena necha image ha us ki dosri wali,
  
@@ -94,7 +101,7 @@ Dynamic Page (Build Time)fetch("API",{})  & fetch("API",{cache:"no-store"}
 
 <img width="1035" height="657" alt="image" src="https://github.com/user-attachments/assets/8da24dbd-8bfe-46a8-8186-f3bf6ce2ecaf" />
 
-# 11 Image
+# 12 Image
 - loading pehla sa image load kar lata h,
 - width or height pixel ko perfect karta h
 ```
@@ -108,7 +115,7 @@ import bird from "../image/bird.jpg"
 
 ```
 
-# 12 Usestate (Hook)
+# 13 Usestate (Hook)
 - varible ko hum update nahi kar sakhta ha function sa is lia UseState use huta.
 - OnClick Ek Event ha
 - console is ka browser pa mila ga
@@ -132,7 +139,7 @@ useEffect(()=>{}, [])
 
 <img width="787" height="694" alt="image" src="https://github.com/user-attachments/assets/a370d8e6-d000-4c26-9caf-c52f60678aad" />
 
-# 13 OnChange (Event)
+# 14 OnChange (Event)
 
 - jab hi kuch likho to fire hu jaya yani run hu jaya
 - OnChange ka parameter pa hama ek parameter milta ha ( e ) name sa e ek object ha
@@ -199,7 +206,7 @@ export default function Home() {
 }
 
 ```
-# Props Drilling
+# 15 Props Drilling
 - you can say that props are similar to Function jaisa ap funtion pa data send karta hu Argument sa similar same.
 <img width="378" height="316" alt="image" src="https://github.com/user-attachments/assets/853e5aae-614d-4393-8b08-4ac5d7468dfc" />
 ##  Parents Components
@@ -214,7 +221,7 @@ export default function Home() {
 ## Child C Components 
 <img width="917" height="398" alt="image" src="https://github.com/user-attachments/assets/313f318a-6751-46c8-940b-77c14af1177b" />
 
-# ladki video
+# 16 ladki video
 - (1)Create , (2)Provider , (3)Consumer
 - Consumer sa value sirf hum bahar function sa hi nikalta h
 - is context api also Problematic ?
@@ -232,7 +239,7 @@ jo It make ka tha woh layout.tsx pa rap kar da raha tha
 <img width="646" height="603" alt="image" src="https://github.com/user-attachments/assets/6d21d991-c8f2-4ae1-a530-66181e26f7ef" />
 <img width="1050" height="699" alt="image" src="https://github.com/user-attachments/assets/9c35df20-5942-47f3-b7af-c29493f5a7c2" />
 
-# useContext
+# 17 useContext
 <img width="615" height="677" alt="image" src="https://github.com/user-attachments/assets/60ad2712-1bae-4634-bd80-c40b43677976" />
 <img width="595" height="530" alt="image" src="https://github.com/user-attachments/assets/4484cc08-6ae1-4019-bf82-10e0325d91f0" />
 
@@ -241,7 +248,7 @@ jo It make ka tha woh layout.tsx pa rap kar da raha tha
 
   
 
-# Context Api 
+# 18 Context Api 
 
 - you have Data
 - Context API State Manage karna ka lia huta h.
@@ -253,7 +260,7 @@ jo It make ka tha woh layout.tsx pa rap kar da raha tha
 - props ka zarya sa bhi provide kar sakhta h but bad practice
 - For Example jab bhi component A pa kuch changing hu gi to automatic Component bhi apna ap ko Rerender kara ga yani khud ko bhi re render kara ga
   
-## Yeh Image Direact Layout.tsx pa provider ki ha jo ka Rong ha 
+##  Yeh Image Direact Layout.tsx pa provider ki ha jo ka Rong ha 
 <img width="1126" height="808" alt="image" src="https://github.com/user-attachments/assets/72359b6b-348b-4c98-bb0e-c92d288f2bdb" />
 <img width="915" height="387" alt="image" src="https://github.com/user-attachments/assets/d2fabbc4-ab0c-4ef1-9b37-20e8f74a2e5d" />
 
@@ -267,17 +274,44 @@ jo It make ka tha woh layout.tsx pa rap kar da raha tha
 ## Phir Layout.tsx pa Provide karo 
 <img width="907" height="650" alt="image" src="https://github.com/user-attachments/assets/d4829f38-fab1-4c79-a161-c6d8b034d577" />
 
-# Incremental static regeneration (ISR)
+# 19 Incremental static regeneration (ISR)
 - Static Page acha to ha foran load hu jata ha maghar us ka under bilkul update data nahi .
 - Dynamic page acha to huta ha update data bhi ha main compaire to load time static sa kam ha.
 - is lia hum ISR use karta ha jo dono kam ek sath karta h
   <img width="940" height="681" alt="image" src="https://github.com/user-attachments/assets/9daa7242-ec37-40f5-b174-9c899203edcd" />
 
-# All about generate static params
+# 20 All about generate static params
 - [dynamic] jo dynamic ka under ka page huta ha na woh dynamic banta ha bydefault mujhe aghar static banana hu to yeh tareeqa h.
 <img width="958" height="649" alt="image" src="https://github.com/user-attachments/assets/1bd5e865-b820-4ab9-9c00-fd19f2f74f71" />
 <img width="1242" height="624" alt="image" src="https://github.com/user-attachments/assets/60009ad5-f36c-4c98-90c3-286b221afcee" />
 
+# 21 Middleware
+- middleware file hamasha root pa bana gi warna kam nahi kara gi woh means SRC ka under banao maghar ap ka under nahi.
+
+# 22 Catch-All-Segments
+- searchParam ya dosra name query parameter h
+- catch all segments is lia use karta ha q ka bohat ziyada hum nested route bana sakha
+- 
+
+<img width="709" height="371" alt="image" src="https://github.com/user-attachments/assets/2c8049ec-cc5b-4e46-b8e9-98f28ee3444a" />
+<img width="1176" height="640" alt="image" src="https://github.com/user-attachments/assets/d27b722f-ef95-4f08-9225-a78d2a45f94e" />
+<img width="807" height="251" alt="image" src="https://github.com/user-attachments/assets/db0e27c9-e94f-43d1-9ef5-c50a9e7c48ac" />
+
+# 23 Parallel routes
+
+- Paraller Routes bana ka lia @ use karna padta ha
+- @team ko hum route nahi kahata ha balka slot khahta h
+- @team jaisa ek folder banaya ha main na aghar us ka under main koi page.tsx ki file banata hu to woh url pa render nahi hu gi jaisa localhost:3000/team
+- @ jo ka slot ha woh children ka under nahi aata ha woh props ka under ata h to hum layou.tsx ka props sa nikala ga slot ko,
+- jab bhi @sa slot banao to npm run dev dubara karna
+
+  <img width="981" height="757" alt="image" src="https://github.com/user-attachments/assets/6492848e-e74a-4294-8c21-026d311b4989" />
+
+# 24 not-found page
+
+- 404 ka jaisa page aata ha aghar ap apna custom page banana chaha to not-fount.tsx ka name ki file bana ka kar sakhta h
+
+ <img width="891" height="234" alt="image" src="https://github.com/user-attachments/assets/2f4e3b41-535f-4ff0-9838-d0ef3eb7c808" />
 
 
 
