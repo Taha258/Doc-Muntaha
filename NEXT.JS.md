@@ -17,8 +17,28 @@
 - Control + p sa file switch kar sakhta hu
 - Props ek Object ha
 - Jo Components ka under props ki value aa rahi huti ha na woh hum khud bhajta ha <Card name="taha"/> aasa kar ka.
-- Maghar jo Dynamic [id] Routes ka under jo Props huta ha us props ka under value Next.js send karta ha khud sa jo URL pa aai hua huti ha. 
+- Maghar jo Dynamic [id] Routes ka under jo Props huta ha us props ka under value Next.js send karta ha khud sa jo URL pa aai hua huti ha.
 
+## Without Destructure
+```
+export default async function Page(props) {
+  const resolvedParams = await props.params;
+  
+  return (
+    <div>All Dynamic page {resolvedParams.shirt}</div>
+  );
+}
+```
+## With Destructure
+```
+export default async function Page({ params }) {
+  const resolvedParams = await params;
+  
+  return (
+    <div>All Dynamic page {resolvedParams.shirt}</div>
+  );
+}
+```
 <img width="767" height="424" alt="image" src="https://github.com/user-attachments/assets/eecbb551-6373-42b8-a663-154190eb0631" />
 <img width="824" height="469" alt="image" src="https://github.com/user-attachments/assets/863bc3d1-c745-4403-8869-f91bd512ce98" />
 
