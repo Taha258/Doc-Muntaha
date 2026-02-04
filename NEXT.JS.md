@@ -10,6 +10,31 @@
 
 <img width="1354" height="858" alt="image" src="https://github.com/user-attachments/assets/42111403-325d-4153-a963-2156381a6d64" />
 
+#  Export Default VS Named Export
+### Export Default
+```
+// Card.js
+export default Card
+
+// Import (kisi bhi naam se kar sakte ho)
+import Card from './Card'          ✅
+import MyCard from './Card'        ✅
+import Anything from './Card'      ✅
+// {} nahi chahiye
+```
+### Named Export
+```
+// Card.js
+export function Card() { }
+
+// Import (SAME naam chahiye + {} chahiye)
+import { Card } from './Card'      ✅
+import { MyCard } from './Card'    ❌ Galat!
+// {} zaroori hai aur naam bhi same
+```
+## Summary
+- Default = kuch bhi naam, {} nahi
+- Named = same naam, {} zaroori
 # 2 Props
 
 - Props Parameter or Argument hi huta ha
