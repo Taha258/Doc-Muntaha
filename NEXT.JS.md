@@ -15,7 +15,9 @@
 - Props Parameter or Argument hi huta ha
 - () pa zarori nahi props likho kuch hi likha sakhta hu
 - Control + p sa file switch kar sakhta hu
-- Props ek Object ha 
+- Props ek Object ha
+- Jo Components ka under props ki value aa rahi huti ha na woh hum khud bhajta ha <Card name="taha"/> aasa kar ka.
+- Maghar jo Dynamic [id] Routes ka under jo Props huta ha us props ka under value Next.js send karta ha khud sa jo URL pa aai hua huti ha. 
 
 <img width="767" height="424" alt="image" src="https://github.com/user-attachments/assets/eecbb551-6373-42b8-a663-154190eb0631" />
 <img width="824" height="469" alt="image" src="https://github.com/user-attachments/assets/863bc3d1-c745-4403-8869-f91bd512ce98" />
