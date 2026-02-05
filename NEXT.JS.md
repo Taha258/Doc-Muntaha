@@ -166,6 +166,7 @@ import bird from "../image/bird.jpg"
 - varible ko hum update nahi kar sakhta ha function sa is lia UseState use huta.
 - OnClick Ek Event ha
 - console is ka browser pa mila ga
+- Normal variable change karne se UI update nahi hota
 
 <img width="871" height="641" alt="image" src="https://github.com/user-attachments/assets/ceee58ab-d477-46d7-ae68-f4d356a39866" />
  
