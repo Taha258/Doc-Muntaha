@@ -114,7 +114,7 @@ export default async function Page({ params }) {
 <img width="1168" height="629" alt="image" src="https://github.com/user-attachments/assets/02f87d15-006e-4462-8b68-ebe8d8f2e425" />
 <img width="1312" height="431" alt="image" src="https://github.com/user-attachments/assets/54a7e250-be83-4ec3-b295-fd5ea746ea58" />
 
-# 7 Static Page 
+# 7 Static Page & ISR (Incremental Static Regeneration)
 - by default page static huta h,
 - jab Hunm npm Build karta ha to yeh page banta h
 ```
