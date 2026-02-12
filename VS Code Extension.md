@@ -25,3 +25,8 @@
 ```
 <img width="753" height="206" alt="image" src="https://github.com/user-attachments/assets/07898f36-1f22-475a-b457-753e8a74bfc0" />
 
+# Nogic 
+- yeh ek woh extention ha jis sa ap apna project ka flow samjha sakhta h.
+- Control + Shift + p => Type "Nogic: Open Visualizer"
+<img width="861" height="515" alt="image" src="https://github.com/user-attachments/assets/68e33771-070f-4767-92ea-5b4d146727a1" />
+
