@@ -1,5 +1,28 @@
 # Complete Redux Toolkit Guide with Next.js
 
+- configureStore → Store banata hai ✅
+- Store ke andar reducer hota hai ✅
+- Slice mein logic likhte hain (jaise Express mein controller) ✅
+- Slice ka reducer → Store ke reducer mein jama hota hai ✅
+- createSlice ke andar reducers object mein logic ✅
+
+```
+// EXPRESS.JS
+controllers/
+├── userController.js    // Logic functions
+└── productController.js
+
+routes/
+└── index.js            // Sab controllers ko jama karo
+
+// REDUX TOOLKIT
+slices/
+├── authSlice.js        // Logic functions (reducers)
+└── cartSlice.js
+
+store.js                // Sab slices ko jama karo
+```
+
 ## Installation
 
 ```bash
