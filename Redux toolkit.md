@@ -5,6 +5,9 @@
 - Slice mein logic likhte hain (jaise Express mein controller) ✅
 - Slice ka reducer → Store ke reducer mein jama hota hai ✅
 - createSlice ke andar reducers object mein logic ✅
+- useSelector, useDispatch ab mujhe yeh do bhi is hi tarha samjha do jaha yeh store ki value use karni huti ha to hum is ki madad sa use karta ha ?
+-  useSelector 📖 (Padhne ke liye) Kaam: Store se value READ karna (padhna)
+-  useDispatch ✍️ (Likhne/Change karne ke liye) Kaam: Store mein value CHANGE karna (action bhejke)
 
 ```
 // EXPRESS.JS
