@@ -4,6 +4,7 @@
 **Bilkul sahi samajh rahe ho! 👍** 
 
 Chalo main tumhe clear hierarchy samjhata hoon:
+<img width="876" height="516" alt="image" src="https://github.com/user-attachments/assets/88e5e602-3a5a-4176-8cfb-6fc7934b2a1c" />
 
 ## MongoDB ka Structure (Upar se Neeche):
 
