@@ -17,4 +17,14 @@
 
 # INSTALL PLUGIN
 - Ek Website pa ziyada sa ziyada 12 sa 15 plugin huni chahiya,warna website heavy huti ha,
-- 
+
+  <img width="1884" height="611" alt="image" src="https://github.com/user-attachments/assets/4bbd1ad9-eb09-4cfa-8c3d-73da61585f0f" />
+  <img width="1907" height="579" alt="image" src="https://github.com/user-attachments/assets/807cfc47-49ef-456d-a165-ea99df9c46e9" />
+  <img width="1716" height="561" alt="image" src="https://github.com/user-attachments/assets/13ce5afa-264e-44e3-b41d-da777100909d" />
+  <img width="1710" height="582" alt="image" src="https://github.com/user-attachments/assets/c3f7a156-bc1f-4d85-bf29-d79b2aaef865" />
+  <img width="1728" height="574" alt="image" src="https://github.com/user-attachments/assets/0156f33f-0aaa-451e-8ecd-34443d1ad7ab" />
+
+
+
+
+
