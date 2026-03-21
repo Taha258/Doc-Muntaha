@@ -46,6 +46,11 @@
  <img width="841" height="319" alt="image" src="https://github.com/user-attachments/assets/6d2760ff-d770-496b-8f65-f38155fc0508" />
  <img width="701" height="460" alt="image" src="https://github.com/user-attachments/assets/9ff1096a-eaeb-4b0a-8796-87c41f6a105a" />
 
+ # Simple Product VS Variable Product
+ - Simple Product : Sirf ek Color or ek size
+ - Variable Product : Multie Color & Size
+ - 
+
 
 
 
