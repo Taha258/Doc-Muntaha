@@ -54,6 +54,14 @@
  - Like , Size , Color ,
 <img width="1461" height="739" alt="image" src="https://github.com/user-attachments/assets/3904ef63-092b-4cc4-b424-08d1b8eef97c" />
 
+# Navigation Open 
+- Right Click on Screen and select Navigation
+
+<img width="382" height="293" alt="image" src="https://github.com/user-attachments/assets/503f2529-947c-4449-9834-4a88acdc3833" />
+<img width="673" height="411" alt="image" src="https://github.com/user-attachments/assets/818678aa-c2ec-4a07-907e-d328be36d73b" />
+
+
+
 
 
 
