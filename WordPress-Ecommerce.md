@@ -59,6 +59,14 @@
 
 <img width="382" height="293" alt="image" src="https://github.com/user-attachments/assets/503f2529-947c-4449-9834-4a88acdc3833" />
 <img width="673" height="411" alt="image" src="https://github.com/user-attachments/assets/818678aa-c2ec-4a07-907e-d328be36d73b" />
+### Fill This for SEO
+<img width="1278" height="624" alt="image" src="https://github.com/user-attachments/assets/f3a28dad-9004-41ff-86e6-e4a17b414a32" />
+
+## Make Temporary Page For Menu 
+<img width="985" height="556" alt="image" src="https://github.com/user-attachments/assets/7cf4d032-c49b-4339-9752-c8aa7dd4f2e1" />
+
+
+
 
 
 
