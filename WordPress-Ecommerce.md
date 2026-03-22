@@ -64,6 +64,18 @@
 
 ## Make Temporary Page For Menu 
 <img width="985" height="556" alt="image" src="https://github.com/user-attachments/assets/7cf4d032-c49b-4339-9752-c8aa7dd4f2e1" />
+## Astra ki Theme ko Custome karna 
+- upper customize likha hua ha .
+### Custome -> Global -> Tygorophy -> 
+<img width="1245" height="606" alt="image" src="https://github.com/user-attachments/assets/53832e45-c3cc-4946-9be2-82aa2dcb29ba" />
+<img width="970" height="598" alt="image" src="https://github.com/user-attachments/assets/2a9f016c-b84e-46c2-b4ec-6347219cf776" />
+<img width="491" height="588" alt="image" src="https://github.com/user-attachments/assets/ee90ad9a-58e6-4b3d-ad57-d25a41ed81e2" />
+<img width="458" height="900" alt="image" src="https://github.com/user-attachments/assets/855e6d8d-b78f-4a74-8090-d5d96efcb8dc" />
+
+
+
+
+
 
 
 
