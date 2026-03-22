@@ -49,7 +49,11 @@
  # Simple Product VS Variable Product
  - Simple Product : Sirf ek Color or ek size
  - Variable Product : Multie Color & Size
- - 
+
+ ## Attribute = Khososiyat 
+ - Like , Size , Color ,
+<img width="1461" height="739" alt="image" src="https://github.com/user-attachments/assets/3904ef63-092b-4cc4-b424-08d1b8eef97c" />
+
 
 
 
