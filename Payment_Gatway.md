@@ -68,9 +68,10 @@ Payoneer ek online payment receiving service hai (digital bank jaisa system).
 ---
 
 ---
-## Pakistan Payment Getway
+## 🚩🏁Pakistan Payment Getway
 - Safepay
 - Payfast
+- Simpaisa Wallet (Jazzcash & Easypaisa)
 ---
 
 ## 🧠 Simple Samajh Lo
