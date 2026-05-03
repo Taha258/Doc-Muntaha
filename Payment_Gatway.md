@@ -72,6 +72,7 @@ Payoneer ek online payment receiving service hai (digital bank jaisa system).
 - Safepay
 - Payfast
 - Simpaisa Wallet (Jazzcash & Easypaisa)
+- JazzCash & EasyPai (Need Merchant Account)
 ---
 
 ## 🧠 Simple Samajh Lo
