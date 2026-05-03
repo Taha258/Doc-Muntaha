@@ -67,6 +67,12 @@ Payoneer ek online payment receiving service hai (digital bank jaisa system).
 
 ---
 
+---
+## Pakistan Payment Getway
+- Safepay
+- Payfast
+---
+
 ## 🧠 Simple Samajh Lo
 
 * Card (Debit/Credit) = paisa dene ka tareeqa
