@@ -49,7 +49,7 @@ add_menu_page( string $page_title, string $menu_title, string $capability, strin
 <img width="1206" height="594" alt="image" src="https://github.com/user-attachments/assets/e62b5fcd-8bdc-427b-84a2-e95bfde63150" />
 
 # SUB MENU 
-## How to Add Sub Menu in Custom Plugin.
+## How to Add Sub Menu in Custom Plugin ⛺.
 <img width="645" height="439" alt="image" src="https://github.com/user-attachments/assets/e1fab730-1a53-40da-9af6-a2c838da2118" />
 <img width="754" height="302" alt="image" src="https://github.com/user-attachments/assets/06f9b96f-06f4-48ef-b38d-06756dd7ff31" />
 <img width="1065" height="463" alt="image" src="https://github.com/user-attachments/assets/35c06400-1e12-449d-b5b7-bf657e1a4fe2" />
@@ -63,6 +63,40 @@ add_menu_page( string $page_title, string $menu_title, string $capability, strin
 <img width="1062" height="391" alt="image" src="https://github.com/user-attachments/assets/b8626f22-13d0-4447-a406-1dda13dbeae6" />
 <img width="987" height="433" alt="image" src="https://github.com/user-attachments/assets/338aa67f-451e-4727-b8d5-0cc928e5295b" />
 <img width="628" height="414" alt="image" src="https://github.com/user-attachments/assets/b265d861-bec7-4cd2-b4c2-e217a056d821" />
+
+
+# Menus and Sub-Menus Layouts 🗾♨🗾
+## Layout Mens Folder Structure 
+- Dekho hum Sub_Menu page ha us ka content Parent Manue pa rakha to ek hi file pa bohat ziyada content hu jaya ga is lia hum layout banata ha.
+
+## Wp-Content => Plugin => Custom Folder => Create new Folder (ABC Name Kuch bhi)(Pages) => Create File (add-employee.php)
+<img width="388" height="355" alt="image" src="https://github.com/user-attachments/assets/3ca60491-9860-48c6-bc95-ffc560a7ba26" />
+## Yeh 2 Sub Menu Function ha is ki logic hum ab layout wali files pa likha ga
+<img width="630" height="354" alt="image" src="https://github.com/user-attachments/assets/0dfb26be-6910-4acb-92ac-50d61fac593b" />
+
+## Ab jo pages name ka Folder ka under jo hum na 2 file banai ha us ka path kaisa da 
+<img width="525" height="60" alt="image" src="https://github.com/user-attachments/assets/e03711b4-1102-4324-a995-2351c7b4257b" />
+
+<img width="668" height="35" alt="image" src="https://github.com/user-attachments/assets/d1cefc10-8872-4f3b-9b6f-8c6cec4de2b9" />
+### Ek Constant PHP ka varible banao define() sa us ka under path save karo
+```
+define("EMS_PLUGIN_PATH",plugin_dir_path(__FILE__));
+```
+<img width="892" height="237" alt="image" src="https://github.com/user-attachments/assets/7e3966a1-f742-4785-8741-d5c96327d427" />
+### yeh alternate ha varible decrle karna ka $path varible sa
+<img width="803" height="186" alt="image" src="https://github.com/user-attachments/assets/53e24b68-11c3-400a-85eb-17e6e2174f5f" />
+
+<img width="662" height="377" alt="image" src="https://github.com/user-attachments/assets/7ebd5e87-0b04-4558-baa1-dfb4c4041e9a" />
+### . Dot na Contactenate ha jo javasript pa + + sa huta ha
+<img width="1010" height="472" alt="image" src="https://github.com/user-attachments/assets/6ab6aca3-8bdf-4c89-8858-8dca550221e8" />
+<img width="890" height="474" alt="image" src="https://github.com/user-attachments/assets/840683ed-0cd8-43ee-892f-29c56883e148" />
+## W3 School 
+- W3 School sa hum bootstrap pa form ka code bhi la sakhta h
+
+<img width="1189" height="616" alt="image" src="https://github.com/user-attachments/assets/94f3b24d-c8ae-4616-aa93-47404bcb5e5b" />
+<img width="1214" height="640" alt="image" src="https://github.com/user-attachments/assets/dfb089e3-7c2f-48c4-a089-ae845059d30b" />
+
+
 
 
 
