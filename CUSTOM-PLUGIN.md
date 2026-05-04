@@ -97,7 +97,60 @@ define("EMS_PLUGIN_PATH",plugin_dir_path(__FILE__));
 <img width="1214" height="640" alt="image" src="https://github.com/user-attachments/assets/dfb089e3-7c2f-48c4-a089-ae845059d30b" />
 
 
+# Settings of Layout (Add, List) 🕸
 
+# 🔥 WordPress Plugin Structure (Explained)
+```
+my-plugin/
+│
+├── my-plugin.php          
+│   → Main entry file (plugin start karta hai, hooks + includes handle karta hai)
+│
+├── uninstall.php          
+│   → Plugin delete hone par cleanup (DB, options delete)
+│
+├── readme.txt             
+│   → Plugin description, version, usage (WordPress.org ke liye)
+│
+├── includes/              
+│   → Core logic (plugin ka brain)
+│   │
+│   ├── class-loader.php   
+│   │   → Saari files/classes ko load/manage karta hai (advanced structure)
+│   │
+│   ├── class-init.php     
+│   │   → Plugin initialize karta hai (hooks register, main flow control)
+│   │
+│   └── helpers.php        
+│       → Chhote reusable functions (utility helpers)
+│
+├── admin/                 
+│   → Sirf admin panel (dashboard) ke liye code
+│   │
+│   ├── class-admin-menu.php  
+│   │   → Admin menu create karta hai (add_menu_page, submenu)
+│   │
+│   └── class-admin-page.php  
+│       → Admin page ka UI (HTML output, forms, settings)
+│
+├── public/                
+│   → Frontend (website side) ke liye code
+│   │
+│   └── class-public.php   
+│       → Frontend display, CSS/JS load, shortcodes etc.
+│
+├── assets/                
+│   → Static files (design + scripts)
+│   │
+│   ├── css/               
+│   │   → Styling files (admin + frontend)
+│   │
+│   ├── js/                
+│   │   → JavaScript files (AJAX, interactivity)
+│   │
+│   └── images/            
+│       → Icons, images
+```
 
 
 
