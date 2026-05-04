@@ -30,7 +30,9 @@ add_menu_page( string $page_title, string $menu_title, string $capability, strin
 
 ## string $menu_slug
 <img width="903" height="580" alt="image" src="https://github.com/user-attachments/assets/1e86dedd-a101-48ac-b8be-0b017436b152" />
+
 ## callable $callback (Function Logic)
+<img width="568" height="158" alt="image" src="https://github.com/user-attachments/assets/f290834a-7525-4fe9-b8ae-4d5e6621b358" />
 
 ## string $icon_url
 <img width="933" height="333" alt="image" src="https://github.com/user-attachments/assets/9226d0bf-6512-4798-b442-cda73a80eee2" />
