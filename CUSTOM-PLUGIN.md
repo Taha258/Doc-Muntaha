@@ -159,6 +159,9 @@ my-plugin/
 - assets/ → CSS/JS
 - uninstall.php → cleanup
 
+## Hum na jo JQuery or Css ka link lagaya tha woh link ki file hum downlode kar ka lagaya ga q ka aghar woh link aghar kharab hu jaya to hamarai plugin kharab nahi hu is li downloade kar raha.
+### plugin_dir_url() => website URL => CSS, JS, images
+
 
 
 
