@@ -16,3 +16,4 @@
 ```
 add_menu_page( string $page_title, string $menu_title, string $capability, string $menu_slug, callable $callback, string $icon_url, int|float $position = null ): string
 ```
+# Control + U (View Source Page)
