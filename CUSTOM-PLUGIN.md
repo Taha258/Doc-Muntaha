@@ -151,7 +151,13 @@ my-plugin/
 │   └── images/            
 │       → Icons, images
 ```
-
+# ⚡ Short Summary (jaldi revise karne ke liye)
+- my-plugin.php → start point
+- includes/ → logic
+- admin/ → dashboard
+- public/ → frontend
+- assets/ → CSS/JS
+- uninstall.php → cleanup
 
 
 
