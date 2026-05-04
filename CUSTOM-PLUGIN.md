@@ -48,3 +48,24 @@ add_menu_page( string $page_title, string $menu_title, string $capability, strin
 #### echo = console.log() & Print""
 <img width="1206" height="594" alt="image" src="https://github.com/user-attachments/assets/e62b5fcd-8bdc-427b-84a2-e95bfde63150" />
 
+# SUB MENU 
+## How to Add Sub Menu in Custom Plugin.
+<img width="645" height="439" alt="image" src="https://github.com/user-attachments/assets/e1fab730-1a53-40da-9af6-a2c838da2118" />
+<img width="754" height="302" alt="image" src="https://github.com/user-attachments/assets/06f9b96f-06f4-48ef-b38d-06756dd7ff31" />
+<img width="1065" height="463" alt="image" src="https://github.com/user-attachments/assets/35c06400-1e12-449d-b5b7-bf657e1a4fe2" />
+## Add Sub Menu
+<img width="1325" height="398" alt="image" src="https://github.com/user-attachments/assets/eef8e43b-d9ec-4ade-b34b-451714dbea63" />
+<img width="1054" height="156" alt="image" src="https://github.com/user-attachments/assets/c3ee30af-043c-424b-8c5a-3aadbc680e6a" />
+
+### Sub_menu_page ka under Parents Slug ka name dalna ha
+- Jab hum Parent Menu pa click karta ha to woh Sub Menu pa hi jata ha to is lia hum 1 function hi bana ga jo sub menu ka hi function hu ga
+- Jab hu Post pa click karta ha to us ka Sub menu open huta ha jis ka matlab Parent ka Slub or Fist SubMenu ka slug same huta ha
+<img width="1062" height="391" alt="image" src="https://github.com/user-attachments/assets/b8626f22-13d0-4447-a406-1dda13dbeae6" />
+<img width="987" height="433" alt="image" src="https://github.com/user-attachments/assets/338aa67f-451e-4727-b8d5-0cc928e5295b" />
+<img width="628" height="414" alt="image" src="https://github.com/user-attachments/assets/b265d861-bec7-4cd2-b4c2-e217a056d821" />
+
+
+
+
+
+
