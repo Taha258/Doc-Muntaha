@@ -1,4 +1,12 @@
-<img width="567" height="124" alt="image" src="https://github.com/user-attachments/assets/8f6010c2-7764-4453-bc0f-ea477fa0a01f" />
+<img width="401" height="186" alt="image" src="https://github.com/user-attachments/assets/1083085e-993c-453c-ad1c-d4c1b1c0c033" />
+<img width="646" height="386" alt="image" src="https://github.com/user-attachments/assets/b44e7ec9-b753-4ef3-a5ca-b13c7ae2777c" />
+<img width="942" height="430" alt="image" src="https://github.com/user-attachments/assets/996818b2-d36b-4ca0-b74c-8f89dd980074" />
+- CPC bhi High CPM High & CTR Low ha to abhi is ka matlab Campain achi nahi ja rahi ha.
+- Cost Per Landing Page Veiw 50 Rupe sa ziyda nahi aa raha hu.
+- Frequency ka matlab Ek Banda ko ap ki ads kitni bar aa rahi ha.
+- Ad To Card 3 Day pa bhi aaya to masla nahi ha,
+- 
+
 # D2C Ecommerce Marketing Metrics (India)
 
 | Metric | Meaning / Why It Matters | Formula | Ideal Value (India D2C) |
