@@ -5,7 +5,9 @@
 - Cost Per Landing Page Veiw 50 Rupe sa ziyda nahi aa raha hu.
 - Frequency ka matlab Ek Banda ko ap ki ads kitni bar aa rahi ha.
 - Ad To Card 3 Day pa bhi aaya to masla nahi ha,
-- 
+- Cost Per Result jo aati ha woh woh Product CheckOut hu jata ha yani sell hu jata ha ,us ka paisa ha yeh.
+- ROAST = Return On Ads
+- Creativety Improve
 
 # D2C Ecommerce Marketing Metrics (India)
 
