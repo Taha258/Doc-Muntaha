@@ -8,6 +8,9 @@
 - Cost Per Result jo aati ha woh woh Product CheckOut hu jata ha yani sell hu jata ha ,us ka paisa ha yeh.
 - ROAST = Return On Ads
 - Creativety Improve
+- Facebook Library pa check karo similar compaign
+
+<img width="119" height="181" alt="image" src="https://github.com/user-attachments/assets/1a82e375-270c-42aa-91ed-e7dc349e5b34" />
 
 # D2C Ecommerce Marketing Metrics (India)
 
