@@ -33,6 +33,21 @@
 <img width="1388" height="142" alt="image" src="https://github.com/user-attachments/assets/1e963c52-6cac-4e2f-8fbd-c1b032e80a96" />
 <img width="1164" height="297" alt="image" src="https://github.com/user-attachments/assets/f56390d1-5d0f-4caa-99ca-ca94786509aa" />
 <img width="1041" height="188" alt="image" src="https://github.com/user-attachments/assets/cf002190-df81-4678-a83e-861b67ca2e2b" />
+## main banda main Branch pa switch kara ga or phir merge kara ga
+
+<img width="714" height="114" alt="image" src="https://github.com/user-attachments/assets/ccda1a23-69a5-4dda-89be-863217796e52" />
+<img width="887" height="278" alt="image" src="https://github.com/user-attachments/assets/1253ee7a-eb17-498c-b091-926714458815" />
+<img width="655" height="153" alt="image" src="https://github.com/user-attachments/assets/29b5fe62-5705-47d7-bd86-fc9001bd3759" />
+
+## Man banda bola ga Team wala ko main na ap ka code merge kar diya ha or github pa dal diya ha.
+## Team wala banda 
+<img width="698" height="100" alt="image" src="https://github.com/user-attachments/assets/54cd6701-10b8-47c1-83c4-446c289bef0a" />
+<img width="499" height="135" alt="image" src="https://github.com/user-attachments/assets/a99178a8-fc06-4834-b9ff-3999e81d0df4" />
+
+
+
+
+
 
 
 
