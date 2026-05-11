@@ -21,6 +21,27 @@
 - 4 - feature/adding-marquee-effect (yeh branch ka name ha ap kuch bhi rakha sakhta hu (ABC) )
 
 <img width="1286" height="684" alt="image" src="https://github.com/user-attachments/assets/a12370b9-0342-4f7a-b7c3-81207345d5ab" />
+<img width="668" height="59" alt="image" src="https://github.com/user-attachments/assets/d95b9066-d706-44b4-97e9-81b65e439693" />
+<img width="489" height="191" alt="image" src="https://github.com/user-attachments/assets/798c1f05-927c-431c-aa70-603d2059ec36" />
+<img width="1203" height="478" alt="image" src="https://github.com/user-attachments/assets/7a8c09f2-c596-4da3-9aaa-8cf82462407a" />
+<img width="1218" height="460" alt="image" src="https://github.com/user-attachments/assets/b81c8c13-878f-40a5-97ae-954ab4400336" />
+<img width="1718" height="548" alt="image" src="https://github.com/user-attachments/assets/d0e9753d-7cb9-44c7-bfd7-2f81cd21de58" />
+<img width="907" height="527" alt="image" src="https://github.com/user-attachments/assets/a0ab3d93-e2cd-407e-a7d7-473275d0245b" />
+
+# Ab kam ha Marger ka woh main branch pa team ka code marge karga ga check karna ka bad
+
+<img width="1388" height="142" alt="image" src="https://github.com/user-attachments/assets/1e963c52-6cac-4e2f-8fbd-c1b032e80a96" />
+<img width="1164" height="297" alt="image" src="https://github.com/user-attachments/assets/f56390d1-5d0f-4caa-99ca-ca94786509aa" />
+<img width="1041" height="188" alt="image" src="https://github.com/user-attachments/assets/cf002190-df81-4678-a83e-861b67ca2e2b" />
+
+
+
+
+
+
+
+
+
 
 
 
