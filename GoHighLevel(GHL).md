@@ -118,5 +118,31 @@ Main aapko isi order mein sikhaunga:
 | Developer Level | 2–3 months |
 
 <img width="1344" height="623" alt="image" src="https://github.com/user-attachments/assets/7a2610e0-7620-4aee-a244-5d4fc12d4b74" />
+<img width="925" height="593" alt="image" src="https://github.com/user-attachments/assets/2e047574-dc0f-4026-a93a-d80bb366502d" />
+<img width="1099" height="608" alt="image" src="https://github.com/user-attachments/assets/451cf2b1-3e73-4f2c-aff1-7ef0587766d7" />
+
+<img width="789" height="409" alt="image" src="https://github.com/user-attachments/assets/723f7a94-ff83-4595-bf8c-57de791827d3" />
+
+<img width="691" height="414" alt="image" src="https://github.com/user-attachments/assets/f7a1a4c4-4d08-4a59-863d-55f8aa3f6ab2" />
+### Last 6 Month income
+
+<img width="233" height="114" alt="image" src="https://github.com/user-attachments/assets/5fd77dbf-cb6e-4cca-998b-2c11b9a23871" />
+
+<img width="1166" height="293" alt="image" src="https://github.com/user-attachments/assets/7b2ae261-ae13-4fb2-bd82-df857984b46e" />
+
+<img width="479" height="328" alt="image" src="https://github.com/user-attachments/assets/a97bf52b-5a51-4d1b-a30c-9f4e6bf7ce25" />
+
+<img width="1325" height="488" alt="image" src="https://github.com/user-attachments/assets/c9298c14-e87d-4a7b-8aea-d12d95f5f750" />
+
+<img width="843" height="676" alt="image" src="https://github.com/user-attachments/assets/0e7fa5b0-9598-4eb0-a5eb-0477acb9ac80" />
+
+
+
+
+
+
+
+
+
 
 
