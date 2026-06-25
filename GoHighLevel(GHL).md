@@ -136,6 +136,76 @@ Main aapko isi order mein sikhaunga:
 
 <img width="843" height="676" alt="image" src="https://github.com/user-attachments/assets/0e7fa5b0-9598-4eb0-a5eb-0477acb9ac80" />
 
+```
+📂 Actions Panel (Right Side)
+│
+├── 📁 1. Contact Actions
+│   ├── 🖱️ "Add/Remove Tag"
+│   ├── 🖱️ "Update Contact Field"
+│   ├── 🖱️ "Add to Workflow"
+│   ├── 🖱️ "Remove from Workflow"
+│   ├── 🖱️ "Add to Campaign"
+│   ├── 🖱️ "Remove from Campaign"
+│   └── 🖱️ "Delete Contact"
+│
+├── 📁 2. Communication Actions
+│   ├── 🖱️ "Send Email"
+│   ├── 🖱️ "Send SMS"
+│   ├── 🖱️ "Send MMS"
+│   ├── 🖱️ "Send Voicemail Drop"
+│   ├── 🖱️ "Send FB/IG Message"
+│   ├── 🖱️ "Send WhatsApp Message"
+│   ├── 🖱️ "Send GMB Message"
+│   └── 🖱️ "Send Review Request"
+│
+├── 📁 3. Internal Tools
+│   ├── 🖱️ "Create Task"
+│   ├── 🖱️ "Assign to User"
+│   ├── 🖱️ "Internal Notification"
+│   ├── 🖱️ "Webhook"
+│   ├── 🖱️ "Add Note"
+│   └── 🖱️ "Add to Notes"
+│
+├── 📁 4. Logic & Flow
+│   ├── 🖱️ "Wait" ⭐
+│   ├── 🖱️ "If/Else" ⭐ (Tumhara wala)
+│   ├── 🖱️ "Split" (A/B Testing)
+│   └── 🖱️ "Go To" (Jump to another step)
+│
+├── 📁 5. Appointments
+│   ├── 🖱️ "Update Appointment Status"
+│   ├── 🖱️ "Generate One Time Booking Link"
+│   └── 🖱️ "Book Appointment"
+│
+├── 📁 6. Opportunities
+│   ├── 🖱️ "Create/Update Opportunity"
+│   ├── 🖱️ "Remove Opportunity"
+│   ├── 🖱️ "Move Opportunity Stage"
+│   └── 🖱️ "Add to Pipeline"
+│
+├── 📁 7. Payments
+│   ├── 🖱️ "Stripe One-Time Charge"
+│   ├── 🖱️ "Send Invoice"
+│   └── 🖱️ "Send Documents and Contracts"
+│
+├── 📁 8. Marketing
+│   ├── 🖱️ "Add to List"
+│   ├── 🖱️ "Remove from List"
+│   └── 🖱️ "Trigger Link"
+│
+├── 📁 9. AI Actions (NEW 2026)
+│   ├── 🖱️ "AI Prompt (GPT-3)"
+│   ├── 🖱️ "Conversation AI"
+│   └── 🖱️ "Voice AI Agent"
+│
+└── 📁 10. Advanced
+    ├── 🖱️ "Custom Code" (JavaScript)
+    ├── 🖱️ "Zapier"
+    └── 🖱️ "Make (Integromat)"
+```
+
+
+
 
 
 
