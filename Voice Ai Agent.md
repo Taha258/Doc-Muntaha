@@ -3,7 +3,8 @@ Subject: WhatsApp AI Chatbot – Built for Lakeshore Resort
 
 Hi Lakeshore Resort Team,
 
-I've built a WhatsApp AI chatbot specifically for your resort — it handles guest inquiries about cabin bookings, activities, the saloon, events, and more, automatically and 24/7.
+I've built a WhatsApp AI chatbot specifically for your resort — it handles guest inquiries about cabin bookings,
+ activities, the saloon, events, and more, automatically and 24/7.
 
 It's ready to demo. Would you be open to a quick look?
 
