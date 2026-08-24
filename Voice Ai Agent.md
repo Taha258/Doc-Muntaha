@@ -1,4 +1,17 @@
 ```
+Subject: WhatsApp AI Chatbot – Built for Lakeshore Resort
+
+Hi Lakeshore Resort Team,
+
+I've built a WhatsApp AI chatbot specifically for your resort — it handles guest inquiries about cabin bookings, activities, the saloon, events, and more, automatically and 24/7.
+
+It's ready to demo. Would you be open to a quick look?
+
+Best,
+[Your Name]
+[Your Contact]
+```
+```
 pls create a prompt for my ai calling agent inbound agent prompt and it will be for dental i want to
 show as a demo to my client the name of clinic should be “Crystal Dental” ensure to include 
 all the objections with proper tone consistency it should be male named “John”.
