@@ -6,4 +6,8 @@ all the objections with proper tone consistency it should be male named â€œJohnâ
 
 ## Reddit Website 
 ### Search : Need Appointment Setter
+```
+Hi Rhythm i saw you are hiring for an outbound caller, i can build you an Ai Calling Agent that does the
+same job at a fraction o f the cost 24/7 with no breaks worth a quick chat
+```
 
