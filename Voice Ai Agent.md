@@ -1,3 +1,5 @@
+<img width="500" height="603" alt="image" src="https://github.com/user-attachments/assets/7d9b912b-33cb-4847-a233-3f4f91b8622d" />
+
 ```
 Subject: WhatsApp AI Chatbot – Built for Lakeshore Resort
 
