@@ -1,3 +1,29 @@
+```
+Subject : 24/7 AI Voice Agent for Your Dental Practice
+Hi,
+
+I’m Taha, an AI & Automation Developer. I help dental practices automate their calls and appointment booking.
+
+I’ve built a **24/7 AI Voice Agent specifically for dental clinics** that can:
+
+* Answer patient calls 24/7, including evenings and weekends
+* Handle common patient questions
+* Book appointments directly
+* Collect patient information
+* Add and update leads in your CRM
+* Make sure you don’t miss potential patients when your team is busy
+
+The goal is simple: **every patient gets an immediate response, even when your reception team is unavailable.**
+
+I’d be happy to show you a quick demo of how the AI Voice Agent works and how it could be customised for your dental practice.
+
+Would you be interested in seeing a short demo?
+
+Best regards,
+Taha Hussain
+AI & Automation Developer
+
+```
 <img width="506" height="522" alt="image" src="https://github.com/user-attachments/assets/f97b99e5-76da-4fc4-a6b6-d803a85f706d" />
 
 ```
