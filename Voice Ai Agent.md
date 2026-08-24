@@ -5,7 +5,8 @@ Dear Everlast Dental Team,
 
 I hope this message finds you well.
 
-I am pleased to inform you that I have successfully developed an AI-powered calling agent specifically designed for Everlast Dental. The agent is fully configured to handle appointment bookings on your behalf, streamlining the process for both your staff and patients.
+I am pleased to inform you that I have successfully developed an AI-powered calling agent specifically designed for Everlast Dental.
+The agent is fully configured to handle appointment bookings on your behalf, streamlining the process for both your staff and patients.
 
 Here’s a quick overview of what the AI Calling Agent can do:
 
