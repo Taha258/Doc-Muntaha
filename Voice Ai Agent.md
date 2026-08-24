@@ -1,3 +1,22 @@
+<img width="506" height="522" alt="image" src="https://github.com/user-attachments/assets/f97b99e5-76da-4fc4-a6b6-d803a85f706d" />
+
+```
+Dear Everlast Dental Team,
+
+I hope this message finds you well.
+
+I am pleased to inform you that I have successfully developed an AI-powered calling agent specifically designed for Everlast Dental. The agent is fully configured to handle appointment bookings on your behalf, streamlining the process for both your staff and patients.
+
+Here’s a quick overview of what the AI Calling Agent can do:
+
+* Automatically call patients or receive inbound calls
+* Book, confirm, and reschedule appointments
+* Provide clinic information (timing, location, services)
+* Handle common patient queries professionally
+
+The system is ready for integration and use. I would love to schedule a walkthrough session at your convenience so your team can get fully acquainted with it.
+
+```
 <img width="500" height="603" alt="image" src="https://github.com/user-attachments/assets/7d9b912b-33cb-4847-a233-3f4f91b8622d" />
 
 ```
