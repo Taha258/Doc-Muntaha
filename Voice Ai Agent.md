@@ -27,3 +27,8 @@ Hi Rhythm i saw you are hiring for an outbound caller, i can build you an Ai Cal
 same job at a fraction o f the cost 24/7 with no breaks worth a quick chat
 ```
 
+## N8N WorkFlow Trick 
+```
+Please make a n8n workflow json for whatapp ai chatbot that uses ultraapl in backend and it should be for resturant this is the  details:
+```
+
