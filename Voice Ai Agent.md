@@ -1,6 +1,18 @@
 ```
 Hi,
 
+I can build a **24/7 AI Voice Agent** for your business that can receive calls anytime, without any breaks, using a natural human-like voice. It can also answer customer questions and **book appointments automatically**.
+
+I can build this for you for **only $500**, instead of $800.
+
+If you're interested, I can also create a **short demo** for you so you can see how it works.
+
+Would you like to see the demo?
+
+```
+```
+Hi,
+
 I’m Taha, an AI & Automation Developer. I help dental practices automate their calls and appointment booking.
 
 I’ve built a **24/7 AI Voice Agent specifically for dental clinics** that can:
